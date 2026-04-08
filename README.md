@@ -1,12 +1,12 @@
 # Hi, I'm Shan 👋
 
-💻 Frontend Developer (Beginner)  
-🚀 Focused on building clean and responsive websites  
-📍 Pakistan  
+Frontend Developer (Beginner)  
+Focused on building clean and responsive websites  
+Pakistan  
 
 ---
 
-## 🧠 What I Have Learned
+##  What I Have Learned
 - HTML5 (semantic structure, forms, layouts)  
 - CSS3 (Flexbox, basic Grid, styling, responsiveness)  
 - Building real UI clones (Instagram, Starbucks)  
