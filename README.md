@@ -1,4 +1,6 @@
-# Hi, I'm Shan 👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=255&section=header&reversal=false&text=Hi,%20I%E2%80%99m%20Shan%20Jamil%20&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&animation=scaleIn&descSize=18&descAlign=58&descAlignY=103&color=gradient"  />
+</div>
 
 Frontend Developer (Beginner)  
 Focused on building clean and responsive websites  
