@@ -1,11 +1,8 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Hi%2C%20I%20am%20Shan%20Jamil&fontSize=49&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=fadeIn&color=gradient&colorStart=1E293B&colorEnd=0EA5E9" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&reversal=false&text=Hi,%20I%E2%80%99m%20Shan%20Jamil&fontSize=47&fontColor=FFFFFF&fontAlign=50&fontAlignY=47&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=82&color=11c8cb"  />
 </div>
 
-###
 
-###
-###
 Frontend Developer (Beginner)  
 Focused on building clean and responsive websites  
 Pakistan  
@@ -64,7 +61,10 @@ A responsive clone of Starbucks homepage for design practice.
 
 ## 📫 Contact
 - Email: shanjamil119@email.com
+###
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=gradient&colorStart=1E293B&colorEnd=0EA5E9" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=11c8cb"  />
 </div>
+
+###
