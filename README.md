@@ -12,13 +12,16 @@
 - Building real UI clones (Instagram, Starbucks)  
 - Basic Git & GitHub usage  
 
----
-
 ## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
-- Git & GitHub  
-- (Currently learning JavaScript)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+</div>
 
 ---
 
@@ -57,11 +60,9 @@ A responsive clone of Starbucks homepage for design practice.
 ---
 
 ## 📫 Contact
-- Email: shanjamil119@email.com
+- Email: shanjamil119@gmail.com
 ###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=11c8cb"  />
 </div>
-
-###
