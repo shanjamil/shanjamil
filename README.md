@@ -3,11 +3,8 @@
 </div>
 
 
-Frontend Developer (Beginner)  
-Focused on building clean and responsive websites  
-Pakistan  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&letterSpacing=normal+&duration=4000&pause=1500&center=true&vCenter=true&width=1000&lines=Front-End+Developer+;Learning+Python+%26+Django+for+full-stack)](https://git.io/typing-svg)
 
----
 
 ##  What I Have Learned
 - HTML5 (semantic structure, forms, layouts)  
